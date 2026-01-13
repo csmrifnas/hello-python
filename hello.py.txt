@@ -1,0 +1,2 @@
+print("Hello! This is my first Python program.")
+print("Welcome to my GitHub repository.")
